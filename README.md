@@ -1,11 +1,11 @@
-# 📊 UK Online Retail: End-to-End Sales Performance & Customer RFM Analysis (Excel-Based)
+# UK Online Retail: End-to-End Sales Performance & Customer RFM Analysis (Excel-Based)
 
 ![Excel](https://img.shields.io/badge/Tools-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Focus](https://img.shields.io/badge/Analysis-Data%20Cleaning%20%7C%20Pivot%20Tables%20%7C%20RFM%20Analysis-orange?style=for-the-badge)
 
 ---
 
-## 📌 1. Ringkasan Proyek (Project Overview)
+##  1. Ringkasan Proyek (Project Overview)
 Proyek ini merupakan studi kasus analisis data penjualan ritel berbasis di Inggris (*UK-based online giftware & household items retailer*) yang mencakup data transaksi periode **1 Desember 2010 hingga 9 Desember 2011**.
 
 Analisis ini sepenuhnya dirancang dan diproses menggunakan **Microsoft Excel** dengan fokus pada:
@@ -16,7 +16,7 @@ Analisis ini sepenuhnya dirancang dan diproses menggunakan **Microsoft Excel** d
 
 ---
 
-## 🔑 2. Metrik Utama Bisnis (Key Performance Indicators)
+##  2. Metrik Utama Bisnis (Key Performance Indicators)
 
 Berdasarkan dataset transaksi yang telah dibersihkan:
 * **Total Pendapatan (Revenue)**: **£10.259.030,24** (~£10,26 Juta)
@@ -29,7 +29,7 @@ Berdasarkan dataset transaksi yang telah dibersihkan:
 
 ---
 
-## 🛠️ 3. Audit & Log Pembersihan Data (Data Cleaning)
+##  3. Audit & Log Pembersihan Data (Data Cleaning)
 Untuk menjaga integritas data sebelum proses analisis, dilakukan serangkaian tahapan pembersihan dan pemisahan data transaksi:
 
 | No | Tahapan Pembersihan | Alasan Metodologis | Baris Terdampak | Baris Tersisa |
@@ -46,7 +46,7 @@ Untuk menjaga integritas data sebelum proses analisis, dilakukan serangkaian tah
 
 ---
 
-## 📈 4. Temuan & Insight Utama
+##  4. Temuan & Insight Utama
 
 ### 1. Pola Musiman Penjualan (Seasonality)
 * Terjadi lonjakan penjualan yang sangat signifikan pada kuartal keempat (September–November 2011), mencapai puncak tertingginya di **November 2011 (~£1,45 Juta)** akibat periode belanja Natal.
@@ -66,7 +66,7 @@ Untuk menjaga integritas data sebelum proses analisis, dilakukan serangkaian tah
 
 ---
 
-## 💡 5. Rekomendasi Bisnis Strategis
+##  5. Rekomendasi Bisnis Strategis
 
 1. **Retensi & Program Loyalitas Khusus Top Customer:**  
    Fokuskan anggaran retensi pemasaran untuk **Top ~20% Pelanggan** (berdasarkan analisis RFM). Pemberian insentif harga grosir, *dedicated account support*, atau program loyalitas eksklusif akan berdampak jauh lebih besar pada pendapatan dibanding akuisisi pelanggan secara acak.
@@ -79,7 +79,7 @@ Untuk menjaga integritas data sebelum proses analisis, dilakukan serangkaian tah
 
 ---
 
-## 📁 6. Struktur Workbook Excel
+##  6. Struktur Workbook Excel
 
 File `Analisis_Online_Retail.xlsx` disusun secara modular dengan struktur lembar kerja (*sheets*) berikut:
 * `Ringkasan & Insight` : Ringkasan KPI eksekutif, metodologi, dan rekomendasi bisnis.
