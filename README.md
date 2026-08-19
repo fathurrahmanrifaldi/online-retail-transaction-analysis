@@ -10,7 +10,7 @@ Proyek ini merupakan studi kasus analisis data penjualan ritel berbasis di Inggr
 
 Analisis ini sepenuhnya dirancang dan diproses menggunakan **Microsoft Excel** dengan fokus pada:
 1. Menghitung dan memodelkan metrik utama performa bisnis (*Key Performance Indicators*).
-2. Melakukan audit serta pembersihan data transaksi skala besar (>500.000 baris).
+2. Melakukan audit serta pembersihan data transaksi skala besar (>25.000 baris).
 3. Melakukan analisis tren musiman, kontribusi geografis, efisiensi operasional jam belanja, dan segmentasi pelanggan (Prinsip Pareto & Analisis RFM).
 4. Menyusun rekomendasi bisnis strategis berdasarkan temuan data.
 
