@@ -2,7 +2,7 @@
 
 Proyek analisis data komprehensif dari hulu ke hilir (*end-to-end*) pada 522 ribu+ transaksi *e-commerce*, mencakup pembersihan data (*data cleaning*), analisis eksploratif (EDA), pembuatan *dashboard* Excel, serta perancangan arsitektur Power BI.
 
-**Demo Langsung / Portofolio:** [Tautan ke portofolio atau dashboard Anda, jika ada]
+**Demo Langsung:** fathurrahmanrifaldi.vercel.app
 
 ---
 
