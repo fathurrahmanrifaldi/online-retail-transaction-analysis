@@ -56,7 +56,7 @@ Setiap keputusan penghapusan data memiliki justifikasi yang dapat diaudit:
 ---
 
 ##  Analisis Utama & Temuan
-!(dashboard-analisis)["analisis-online-retail-dashboard"]
+![dashboard-analisis](analisis-online-retail-dashboard.png)
 ### 1. Konsentrasi Pendapatan (Prinsip Pareto)
 * 20% pelanggan teratas (868 dari 4.334) menyumbang 75% dari total pendapatan.
 * Hanya butuh 343 pelanggan (7,9%) untuk mencapai ambang batas 80% pendapatan.
